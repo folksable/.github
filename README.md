@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./assets/images/Logo_WBorder.svg" width = "150">
+    <img src="Logo.svg" width = "150">
 </p>
 
 <h1 align="center">Folksable - Your Ultimate Habit-Tracking App with Social Accountability</h1>
