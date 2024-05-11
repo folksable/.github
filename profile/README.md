@@ -1,4 +1,4 @@
-Sharing my experiments [here](https://github.com/orgs/folksable/repositories) and on [pub.dev](https://pub.dev/publishers/folksable.com/packages) as i'm build [folksable](https://folksable.com)
+Sharing my experiments [here](https://github.com/orgs/folksable/repositories) and on [pub.dev](https://pub.dev/publishers/folksable.com/packages) as i'm building [folksable](https://folksable.com)
 
 feel free to contribute or use in your projects.
 
