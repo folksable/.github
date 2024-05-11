@@ -4,6 +4,6 @@ feel free to contribute or use in your projects.
 
 ## Packages on pub.dev
 1. [blurhash_ffi](https://pub.dev/packages/blurhash_ffi): a port of blurhash to flutter written in c via dart:ffi
-2. [shake_detector](https://pub.dev/packages/shake_detector): a package to detect shake gestures for flutter, configurable and simple API, handles app lifecycle states as well.
+2. [shake_detector](https://pub.dev/packages/shake_detector): a package to detect shake gestures for flutter, configurable and simple API.
 
 
