@@ -1,6 +1,6 @@
-Hello 👋, I'm Dhikshith Reddy.
+## Hello 👋, I'm Dhikshith.
 
-## Why I'm Building Folksable?
+### Why I'm Building Folksable?
 
 Social media by its design, has changed an entire generation's perception of reality with its ever-increasing unrealistic standards, incentivizing people not to showcase their growth, but only the absolute successful outcomes.
 
@@ -18,7 +18,7 @@ On Folksable, there's a good chance that a friend of yours has a keen interest i
 
 I put a great deal of thought into building the product to avoid the negatives of social media that our generation has been through, as much 
 
-## Productivity
+### Productivity of Our Generation
 
 Many of the traditional productivity apps like calendar or planner apps aren’t speaking to the younger generation (genz), as many of them don't know how to use a digital calendar, or what a bcc or cc in an email is,  A full-fledged project management app would be overkill for most everyday activities.
 
@@ -26,13 +26,15 @@ Every generation has a chance to either live with the tools and the ways of doin
 
 That's why, I'm building folksable to help our generation get stuff done in their style as they grew up in social apps sharing pictures with friends.
 
-## Open Source Experiments
+As much as criticism the younger generation gets for their "Goldfish Attention Spans" and being a "Snowflake", we are also a generation that wants to be healthier than before, we are more aware of the negatives of excessive technology use, and more self-aware about mental health, in one sentence we made it cool to be healthy again. 
+
+### Open Source Experiments
 
 Sharing my experiments [here](https://github.com/orgs/folksable/repositories) and on [pub.dev](https://pub.dev/publishers/folksable.com/packages) as i'm building [folksable](https://folksable.com)
 
 feel free to contribute or use it in your projects.
 
-## Packages on pub.dev
+### Packages on pub.dev
 1. [blurhash_ffi](https://pub.dev/packages/blurhash_ffi): a port of blurhash to flutter written in c via dart:ffi
 2. [shake_detector](https://pub.dev/packages/shake_detector): a package to detect shake gestures for flutter, configurable and simple API.
 
