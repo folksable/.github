@@ -4,11 +4,13 @@ Hello 👋, I'm Dhikshith Reddy.
 
 Social media by its design, has changed an entire generation's perception of reality with its ever-increasing unrealistic standards, incentivizing people not to showcase their growth, but only the absolute successful outcomes.
 
-It’s making people think they’re in a spotlight, and their every move needs to be perfect, picking a new skill or working towards a new career path means we are not going to be as good in the beginning, it’s become very discouraging to be mediocre, but that’s the thing, everyone that has become great has to have been mediocre at one point before they were great, and people tell themselves they are never going to be as good as someone they see as great on their screens.
+It’s making people think they’re in a spotlight, and their every move needs to be perfect, picking a new skill or working towards a new career path means we are not going to be as good in the beginning, it’s become very discouraging to be mediocre, but that’s the thing, everyone that has become great has to have been mediocre at one point before they were great, and this causes people to tell themselves they are never going to be as good as someone they see as great on their screens.
 
 It feels like an entire generation has been robbed of their space to grow and make mistakes, causing people to think that skills and abilities come innately for many, and so they forget [greatness](https://about.folksable.com/greatness) as a quality that comes with repetition & continuous improvement, because no one is sharing their growth in public.
 
 Folksable is an honest attempt at reminding and inspiring people of [greatness](https://about.folksable.com/greatness) as a quality instead of an absolute outcome.
+
+Watch this [clip from Ed Sheeran](https://youtu.be/flkjMuaKYQU?t=35) from when he was young and not a great singer like today, even the greatest artists we know need their space to grow into their artistic abilities and tastes with practice. 
 
 > Imitation comes before creativity, most creatives would agree.
 
