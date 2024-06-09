@@ -24,9 +24,9 @@ Many of the traditional productivity apps like calendar or planner apps aren’t
 
 Every generation has a chance to either live with the tools and the ways of doing things that previous generations had built and pioneered or could reinvent for themselves.
 
-That's why, I'm building folksable to help our generation get stuff done in their style as they grew up in social apps sharing pictures with friends.
+That's why, I'm building folksable to help our generation get stuff done in our style as we grew up in social apps sharing pictures with friends.
 
-As much as criticism the younger generation gets for their "Goldfish Attention Spans" and being a "Snowflake", we are also a generation that wants to be healthier than before, we are more aware of the negatives of excessive technology use, and more self-aware about mental health, in one sentence we made it cool to be healthy again. 
+As much as criticism the younger generation gets for the "Goldfish Attention Spans" and being a "Snowflake", we are also a generation that wants to be healthier than before, we are more aware of the negatives of excessive technology use, and more self-aware about mental health, in one sentence we made it cool to be healthy again. 
 
 ### Open Source Experiments
 
