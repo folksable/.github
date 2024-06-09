@@ -14,9 +14,23 @@ Watch this [clip from Ed Sheeran](https://youtu.be/flkjMuaKYQU?t=35) an early re
 
 > Imitation comes before creativity, most creatives would agree.
 
+On Folksable, there's a good chance that a friend of yours is very interested in learning guitar and has a ritual of it on the app and posts their progress, this may be surprising for you to learn about them because they'd probably not show that on other social apps and only share once they feel they're good at it.
+
+I put a great deal of thought into building the product to avoid the negatives of social media that our generation has been through, as much 
+
+## Productivity
+
+Many of the traditional productivity apps like calendar or planner apps aren’t speaking to the younger generation (genz), as many of them don't know how to use a digital calendar, or what a bcc or cc in an email is,  A full-fledged project management app would be overkill for most everyday activities.
+
+Every generation has a chance to either live with the tools and the ways of doing things that previous generations had built and pioneered or could reinvent for themselves.
+
+That's why, I'm building folksable to help our generation get stuff done in their style as they grew up in social apps sharing pictures with friends.
+
+## Open Source Experiments
+
 Sharing my experiments [here](https://github.com/orgs/folksable/repositories) and on [pub.dev](https://pub.dev/publishers/folksable.com/packages) as i'm building [folksable](https://folksable.com)
 
-feel free to contribute or use in your projects.
+feel free to contribute or use it in your projects.
 
 ## Packages on pub.dev
 1. [blurhash_ffi](https://pub.dev/packages/blurhash_ffi): a port of blurhash to flutter written in c via dart:ffi
