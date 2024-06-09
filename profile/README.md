@@ -18,7 +18,7 @@ On Folksable, there's a good chance that a friend of yours has a keen interest i
 
 I put a great deal of thought into building the product to avoid the negatives of social media that our generation has been through
 
-### Productivity of Our Generation
+### Productivity for the young.
 
 Many of the traditional productivity apps like calendar or planner apps aren’t speaking to the younger generation (genz), as many of them don't know how to use a digital calendar, or what a bcc or cc in an email is,  A full-fledged project management app would be overkill for most everyday activities.
 
