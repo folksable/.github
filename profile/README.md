@@ -10,7 +10,7 @@ It feels like an entire generation has been robbed of their space to grow and ma
 
 Folksable is an honest attempt at reminding and inspiring people of [greatness](https://about.folksable.com/greatness) as a quality instead of an absolute outcome.
 
-Watch this [clip from Ed Sheeran](https://youtu.be/flkjMuaKYQU?t=35) from when he was young and not a great singer like today, even the greatest artists we know need their space to grow into their artistic abilities and tastes with practice. 
+Watch this [clip from Ed Sheeran](https://youtu.be/flkjMuaKYQU?t=35) an early recording of himself when he was younger trying to sing, even the greatest artists we know need their space to grow into their artistic abilities and tastes with practice. 
 
 > Imitation comes before creativity, most creatives would agree.
 
