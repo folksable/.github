@@ -16,7 +16,7 @@ Watch this [clip from Ed Sheeran](https://youtu.be/flkjMuaKYQU?t=35) an early re
 
 On Folksable, there's a good chance that a friend of yours has a keen interest in playing guitar and has a ritual of it on the app and shares their progress, this may be surprising for you to learn about them because they'd probably not show that on other social apps and only share once they feel they're good at it.
 
-I put a great deal of thought into building the product to avoid the negatives of social media that our generation has been through, as much 
+I put a great deal of thought into building the product to avoid the negatives of social media that our generation has been through
 
 ### Productivity of Our Generation
 
