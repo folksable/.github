@@ -14,7 +14,7 @@ Watch this [clip from Ed Sheeran](https://youtu.be/flkjMuaKYQU?t=35) an early re
 
 > Imitation comes before creativity, most creatives would agree.
 
-On Folksable, there's a good chance that a friend of yours is very interested in learning guitar and has a ritual of it on the app and posts their progress, this may be surprising for you to learn about them because they'd probably not show that on other social apps and only share once they feel they're good at it.
+On Folksable, there's a good chance that a friend of yours has a keen interest in playing guitar and has a ritual of it on the app and shares their progress, this may be surprising for you to learn about them because they'd probably not show that on other social apps and only share once they feel they're good at it.
 
 I put a great deal of thought into building the product to avoid the negatives of social media that our generation has been through, as much 
 
