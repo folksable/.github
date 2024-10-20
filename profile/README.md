@@ -1,4 +1,4 @@
-> tldr: a photo habit tracker.
+> tldr: photo habit tracker.
 
 folksable is a personal productivity app to help young people form habits, and routines and manage their lives in a fun and memorable way by taking pictures, collaborating with friends, and documenting their progress as they grow, our goal is to make productivity more fun and approachable to millions of young people around the world who feel left out by the current enterprise productivity software providers.
 
